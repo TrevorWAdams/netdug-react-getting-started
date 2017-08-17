@@ -1,10 +1,12 @@
 # React Basics
 
-## What is [React](https://facebook.github.io/react/)
+## What is React
 
-JavaScript library originally developed by Facebook that is concerned with rendering the UI
+JavaScript library originally developed by Facebook that is concerned with rendering the UI. Read about it [here](https://facebook.github.io/react/)
 
-## [Thinking In React](https://facebook.github.io/react/docs/thinking-in-react.html)
+## Thinking in React
+
+Read about it [Thinking In React](https://facebook.github.io/react/docs/thinking-in-react.html)
 
 ## What is a component
 
@@ -31,6 +33,7 @@ They look similar but there are some notable differences:
 
 * class vs className
 * adding comments in code
+* and others (read the [docs](https://facebook.github.io/react/docs/jsx-in-depth.html))
 
 ## How do you make a component
 
