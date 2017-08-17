@@ -8,10 +8,6 @@ VS Code Extensions: Optional
 Node: Required
 [nodejs](https://nodejs.org/en/)
 
-nvm: Optional
-[Windows](https://github.com/coreybutler/nvm-windows) 
-[Mac/Linux](https://github.com/creationix/nvm)
-
 cmder: Optional - Windows Only
 [cmder.net](http://cmder.net/) 
 
